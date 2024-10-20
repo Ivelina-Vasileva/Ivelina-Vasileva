@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ivelina-Vasileva
-- 👀 I’m interested in QA and Java Script programming 
-- 🌱 I’m currently learning Computer administration of software apps and a QA course 
+- 👀 I’m interested in QA 
+- 🌱 I’m currently studying for a Master's degree in Information Technology and a QA course 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : ivchetovasileva@gmail.com
 
